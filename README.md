@@ -1,6 +1,16 @@
 # Getting Started with Create React App
+This project is about a simple todo list which contains all the crud operations like Get, Put, Post, Delete.
+here we can add a Task, Edit a task,delete a task.
+we can change the task states 
+ - Todo to InProgress
+ - InProgress to Complete
+   
+We can Delete a Pirticular Task based on the id
+I have used Redux (Type,Action,Reducer)
+And  a rootReducer which stores the properties
+and a store which manages the provider
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
